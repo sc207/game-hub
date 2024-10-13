@@ -51,10 +51,56 @@ Welcome to my **React & TypeScript Game Application**, developed as part of "The
    ```bash
    npm start
 
+
 ---
 
 ## 🧪 **Testing**
-To run the tests, use the following command:
 
-```bash
-npm test
+*
+   ```bash
+   npm test
+
+
+---
+
+## 🚀 **Deployment**
+
+1. **Fork this repository.**
+
+2. **Sign up for a Vercel account.**
+
+3. **Link your GitHub repository and deploy directly from the Vercel dashboard.**
+
+---
+
+## 🤝 **Contributing**
+
+Contributions are welcome! Please feel free to submit issues or pull requests for improvements, bug fixes, or new features. Here’s how you can contribute:
+
+1. **Fork the project.**
+
+2. **Create your feature branch:**
+   ```bash
+   git checkout -b feature/new-feature
+
+3. **Commit your changes:**
+   ```bash
+   git commit -m 'Add some feature'
+
+4. **Push to the branch:**
+   ```bash
+   git push origin feature/new-feature
+   
+6. **Open a pull request.**
+   
+---
+
+## 📄 **License**
+
+This project is open-source and available under the **MIT License**. See the [LICENSE](./LICENSE) file for more details.
+  
+---
+
+## ✨ **Acknowledgments**
+
+A big thanks to **Mosh Hamedani** for providing an excellent learning resource. This project is a part of his **"Ultimate React Developer Course"**.
