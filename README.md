@@ -59,20 +59,3 @@ To run the tests, use the following command:
 ```bash
 npm test
 
----
-
-## 🚀 Deployment
-1. Fork this repository.
-2. Sign up for a Vercel account.
-3. Link your GitHub repository and deploy directly from the Vercel dashboard.
-
----
-
-## 🤝 Contributing
-
-1. **Fork the project.**
-2. **Create your feature branch:**
-
-   ```bash
-   git checkout -b feature/new-feature
-
