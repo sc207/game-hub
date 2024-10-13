@@ -54,8 +54,7 @@ Welcome to my **React & TypeScript Game Application**, developed as part of "The
 ---
 
 ## 🧪 **Testing**
-
- ```bash
+```bash
    npm test
 
 ---
